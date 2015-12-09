@@ -4,9 +4,9 @@
 	<parent>
 		<groupId>org.openmrs.module</groupId>
 		<artifactId>radiology</artifactId>
-		<version>1.4.10</version>
+		<version>1.4.11-SNAPSHOT</version>
 	</parent>
-	<groupId>org.openmrs.module</groupId>
+
 	<artifactId>radiology-api</artifactId>
 	<packaging>jar</packaging>
 	<name>Radiology API</name>
